@@ -15,7 +15,7 @@ This Cypress project focuses on end-to-end testing for the login functionality o
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/project-2-cypress-tests.git
+   git clone git@github.com:yuliiakhodak/Project_02.git
 2. Navigate to the project directory:
 
 cd project-2-cypress-tests
